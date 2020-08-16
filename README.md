@@ -6,9 +6,9 @@ Requirements
 
 Python 3
 
-python-docx (pip3 install python-docx) https://github.com/AlJohri/docx2pdf
+python-docx (pip3 install python-docx) github.com/AlJohri/docx2pdf
 
-docx2pdf (pip3 install docx2pdf) https://python-docx.readthedocs.org/en/latest/
+docx2pdf (pip3 install docx2pdf) python-docx.readthedocs.org/en/latest/
 
 
 Instructions
